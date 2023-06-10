@@ -1,6 +1,6 @@
 # Employee Management System using Spring Boot
 
-Employee Management System using Spring Boot, Thymeleaf and MySQL database.
+Employee Management System using Spring Boot, Thymeleaf and Postgresql database.
 
 # How it looks
 
@@ -10,21 +10,14 @@ Employee Management System using Spring Boot, Thymeleaf and MySQL database.
 
 # Tools and technologies used:
 
-- Java 11
+- Java 17
 - Spring Boot
 - Spring Data JPA (Hibernate)
-- MySQL
+- Postgresql
 - Thymeleaf
-- Eclipse
-
-# Details
-
-You can see details of how to make a blog with this code. (https://satoruakiyama.com/blog/building-an-application-with-spring-boot)
+- IntelliJ
 
 # Author
 
-Satoru Akiyama(https://satoruakiyama.com)
+Khushtar Hussain(khuhstar.hussain.kh@gmail.com)
 
-# License
-
-"Employee Management System using Spring Boot" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
